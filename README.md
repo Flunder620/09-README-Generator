@@ -1,9 +1,9 @@
-# title
+# Project Title
 
 ## Description
 
-desc
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+Description
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 
 
@@ -19,20 +19,20 @@ desc
 
 ## Installation
 
-instr
+Install Instructions
 
 ## Usage
 
-info
+Usage info
 
 ## Contributions
 
-contr
+Contr guidelines
 
 ## License
 
-    this project is licensed under the Apache License 2.0 license
+  this project is licensed under the MIT License license
 
 ## Questions
 
-For any questions about this repo, contact githu or at email
+For any questions about this repo, contact me at Flunder620 or at jguzman12310@yahoo.com

@@ -35,7 +35,7 @@ function renderLicenseSection(license) {
   else{
     return `## License
 
-    this project is licensed under the ${license} license`
+  This project is licensed under the ${license} license`
   }
 }
 
@@ -77,7 +77,7 @@ ${renderLicenseSection(data.license)}
 
 ## Questions
 
-For any questions about this repo, contact ${data.github} or at ${data.email}
+For any questions about this repo, contact me at ${data.github} or at ${data.email}
 `;
 }
 

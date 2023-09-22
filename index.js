@@ -56,7 +56,7 @@ const questions = [
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(function(data){
-        fs.writeFileSync("README.md", generateMarkdown(data))
+        fs.writeFileSync("README-Generated.md", generateMarkdown(data))
     })
 }
 
