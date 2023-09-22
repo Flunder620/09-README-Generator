@@ -1,28 +1,38 @@
-# README Generator
-
-
+# title
 
 ## Description
 
-This application is used to create a README file. This saves time amd is convenient
+desc
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## Table of Contents
+
+
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+- [Credits](#credits)
+
+- [License](#license)
+
+- [Questions](#questions)
 
 ## Installation
 
-Nothing to install as it runs in the terminal
+instr
 
 ## Usage
 
-There are questions that are prompted and the input is then used to generate the file.
+info
 
-## Mock-Up
+## Contributions
 
-The following image shows the web application's appearance and functionality: 
-![This shows what home page will look like](./assets/images/)
+contr
 
-## Deployment Link
+## License
 
-N/A, application run in terminal.
+    this project is licensed under the Apache License 2.0 license
 
-## Built With
+## Questions
 
-<a href = "https://www.npmjs.com/package/inquirer">Inquirer 8.2.4</a>
+For any questions about this repo, contact githu or at email

@@ -38,7 +38,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "Please Choose a license: ",
-        choices: ["MIT License", "Apache License 2.0", "GNU Lesser General Public License"]
+        choices: ["MIT License", "Apache License 2.0", "GPL 3.0", "None"]
     },
     {
         type: "input",
@@ -50,16 +50,14 @@ const questions = [
         name: "email",
         message: "What is your E-Mail address?"
     }
-
-
 ];
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions)
-    generateMarkdown()
+    inquirer.prompt(questions).then(function(data){
+        fs.writeFileSync("README.md", generateMarkdown(data))
+    })
 }
 
 // Function call to initialize app
