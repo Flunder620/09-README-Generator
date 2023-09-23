@@ -35,7 +35,8 @@ function renderLicenseSection(license) {
   else{
     return `## License
 
-  This project is licensed under the ${license} license`
+  This project is licensed under the ${license}
+  `
   }
 }
 
@@ -46,10 +47,11 @@ function generateMarkdown(data) {
 
 ## Description
 
-${data.description}
 ${renderLicenseBadge(data.license)}
-## Table of Contents
 
+${data.description}
+
+## Table of Contents
 
 - [Installation](#installation)
 
