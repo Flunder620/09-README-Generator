@@ -79,7 +79,7 @@ ${renderLicenseSection(data.license)}
 
 ## Questions
 
-For any questions about this repo, contact me at ${data.github} or at ${data.email}
+For any questions about this repo, my github username is <a href = "https://github.com/${data.github}"> ${data.github}</a>, or at ${data.email}
 `;
 }
 
