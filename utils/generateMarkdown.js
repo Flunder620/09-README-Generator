@@ -57,6 +57,8 @@ ${data.description}
 
 - [Usage](#usage)
 
+- [Contributions](#contributions)
+
 - [Credits](#credits)
 
 ${renderLicenseLink(data.license)}
@@ -76,6 +78,8 @@ ${data.usage}
 ${data.contribution}
 
 ${renderLicenseSection(data.license)}
+
+## Credits
 
 ## Questions
 

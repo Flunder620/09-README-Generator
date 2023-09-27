@@ -18,3 +18,7 @@ The user is prompted with questions and the input is then used to populate the R
 
 The following image shows the web application's appearance and functionality: 
 ![This shows what home page will look like](./assets/images/example.png)
+
+## Video Example Link
+
+https://drive.google.com/file/d/138gnAFnAcDXCuKq3UR53-c1T5vhSuPk2/view?usp=drive_link
